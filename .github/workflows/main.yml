@@ -9,7 +9,7 @@ on:
 jobs:
   build:
 
-    runs-on: ci-demo
+    runs-on: AngelofVerdant
 
     strategy:
       matrix:
