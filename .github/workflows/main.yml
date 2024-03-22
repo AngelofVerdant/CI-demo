@@ -9,7 +9,7 @@ on:
 jobs:
   build:
 
-    runs-on: AngelofVerdant
+    runs-on: ubuntu-latest
 
     strategy:
       matrix:
