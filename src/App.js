@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <h1>
-            DEPLOYMENT OF A REACT APP USING GITHUB ACTIONS TO AWS NEW BUILD
+            DEPLOYMENT OF A REACT APP USING GITHUB ACTIONS TO AWS NEW BUILD OMERA
         </h1>
         <p>
          
